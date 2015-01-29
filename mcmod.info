@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tikitorch",
+  "name": "Tiki Torch Mod",
+  "description": "Placid Storm Gaming is finally making it's mark.",
+  "version": "0.0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Placid Storm"],
+  "credits": "BigDirty1985",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
