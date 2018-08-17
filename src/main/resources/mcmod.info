@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wilderness",
+  "name": "Wilderness Survival",
+  "description": "This is just a side project inspired by a friend.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Placid_Storm"],
+  "credits": "Thanks to BigDirty1985 for inspiring it's creation.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
