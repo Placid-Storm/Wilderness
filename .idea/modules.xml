@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Wilderness.iml" filepath="$PROJECT_DIR$/Wilderness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wilderness_api.iml" filepath="$PROJECT_DIR$/.idea/modules/Wilderness_api.iml" group="Wilderness" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wilderness_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Wilderness_main.iml" group="Wilderness" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wilderness_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Wilderness_test.iml" group="Wilderness" />
+    </modules>
+  </component>
+</project>
